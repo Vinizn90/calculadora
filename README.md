@@ -8,7 +8,7 @@ The package calculadora_vinicius is used to: - soma - subrtração - divisão - 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculadora_vinicius
 
 ```bash
-pip install calculadora_vinicius
+pip install calculadora-vinicius
 ```
 
 ## Author
